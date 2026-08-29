@@ -61,5 +61,10 @@
   },
   "fonts": {
     "family": "Poppins"
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-93L9XTKY8X"
+    }
   }
 }
