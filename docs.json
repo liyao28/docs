@@ -78,7 +78,9 @@
       "og:site_name": "Leo Francis Valdez",
       "twitter:card": "summary_large_image",
       "twitter:title": "Leo Francis Valdez",
-      "twitter:description": "Professional profile of Leo Francis Valdez: experience, skills, education, and awards."
+      "twitter:description": "Professional profile of Leo Francis Valdez: experience, skills, education, and awards.",
+      "og:image": "/images/og-image.jpeg",
+      "twitter:image": "/images/og-image.jpeg"
     },
     "indexing": "all"
   }
