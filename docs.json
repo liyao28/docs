@@ -66,5 +66,20 @@
     "ga4": {
       "measurementId": "G-93L9XTKY8X"
     }
+  },
+  "seo": {
+    "metatags": {
+      "author": "Leo Francis Valdez",
+      "keywords": "Leo Francis Valdez, portfolio, resume, CV, experience, skills, education",
+      "robots": "index, follow",
+      "og:title": "Leo Francis Valdez",
+      "og:description": "Professional profile of Leo Francis Valdez: experience, skills, education, and awards.",
+      "og:type": "profile",
+      "og:site_name": "Leo Francis Valdez",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Leo Francis Valdez",
+      "twitter:description": "Professional profile of Leo Francis Valdez: experience, skills, education, and awards."
+    },
+    "indexing": "all"
   }
 }
