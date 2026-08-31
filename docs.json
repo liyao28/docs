@@ -3,9 +3,9 @@
   "theme": "willow",
   "name": "Leo Francis Valdez",
   "colors": {
-    "primary": "#0F172A",
-    "light": "#38BDF8",
-    "dark": "#0F172A"
+    "primary": "#EC34A3",
+    "light": "#36C0F1",
+    "dark": "#D84F93"
   },
   "favicon": "/favicon.svg",
   "navigation": {
